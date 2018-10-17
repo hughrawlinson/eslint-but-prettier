@@ -1,0 +1,15 @@
+{
+  "name": "eslint-but-prettier",
+  "version": "1.0.0",
+  "description": "Eslint, but it's Prettier",
+  "main": "index.js",
+  "bin": {
+    "eslint": "./node_modules/.bin/prettier"
+  },
+  "keywords": [],
+  "author": "Hugh Rawlinson <hugh@spotify.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.14.3"
+  }
+}
